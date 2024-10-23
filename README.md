@@ -1,0 +1,1 @@
+# discord-sm-services-helper
